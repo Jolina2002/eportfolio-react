@@ -6,9 +6,6 @@ function App() {
     <div className="App">
       <header className="App-header">
           <MyButton/>
-          <ButtonCounter/>
-          <ToggleComponent/>
-          <TodoList/>
       </header>
     </div>
   );
